@@ -5,8 +5,8 @@ function ItemDetail() {
 
   return (
     <div>
-      <h1>Item {Number(id)}</h1>
-      <p>Descrition for Item {id}</p>
+      <h1>Item{Number(id)}</h1>
+      <p>Description for Item{id}</p>
     </div>
   )
 }
